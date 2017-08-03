@@ -1,0 +1,32 @@
+body {
+    background-image: url(http://www.knowledgeoverflow.com/wp-content/uploads/2013/06/friends-photo-wallpapers.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: paleturquoise;
+    color: palevioletred;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: palevioletred;
+}
+
+#jumbo_h2 {
+    color: brown;
+}
+
+.btn-primary {
+    color: purple;
+    background-color: palevioletred;
+    border-color: purple;
+}
+
+.panel-title {
+    color: firebrick;
+}
