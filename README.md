@@ -1,4 +1,4 @@
-#Friend Finder
+# Friend Finder
 
 A compatibility-based "FriendFinder" application -- basically a dating app. Used Express.js to handle routing. Deployed the app to Heroku.
 This full-stack site takes in results of visitors' surveys, then compare their answers with those from other visitors. 
